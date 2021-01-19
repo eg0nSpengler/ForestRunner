@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77bfeec9e28543e478ae937dc5336dad, type: 3}
+  m_Name: JumpAudioBank
+  m_EditorClassIdentifier: 
+  AudioClips:
+  - {fileID: 8300000, guid: 33e84da55bc106b4099d469b2d17213f, type: 3}
+  - {fileID: 8300000, guid: 9777b038d061af846a9ace7aa67200f9, type: 3}
+  - {fileID: 8300000, guid: a590d21fb00ada044a9ae4049db5fd97, type: 3}

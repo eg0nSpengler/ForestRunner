@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77bfeec9e28543e478ae937dc5336dad, type: 3}
+  m_Name: StepAudioBank
+  m_EditorClassIdentifier: 
+  AudioClips:
+  - {fileID: 8300000, guid: e5d564705d5f51548b1cbd13e83f6ed1, type: 3}
+  - {fileID: 8300000, guid: f8ab79929bdd56f4a8940111b5aabac9, type: 3}
+  - {fileID: 8300000, guid: d546fddd15b19b8419ee7bc3322eb216, type: 3}
+  - {fileID: 8300000, guid: 7c07195e12eac744c8de544c8d336a43, type: 3}
+  - {fileID: 8300000, guid: 66a360c5fdd832e40981394e1c524d43, type: 3}
+  - {fileID: 8300000, guid: 54acfebde292a324287fe35f8c2945bd, type: 3}
+  - {fileID: 8300000, guid: 4c1099c3e23bb244aa02ab575652b87f, type: 3}
