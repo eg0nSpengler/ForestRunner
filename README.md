@@ -23,3 +23,10 @@ Tap your phone screen to jump and see how long you can last without hitting a tr
 The game will automatically restart 2-3 seconds after dying.
 
 Enjoy!
+
+### Credits
+
+* Medieval Warrior Sprites - https://luizmelo.itch.io/medieval-warrior-pack-2
+* Forest Background/Tiles - https://edermunizz.itch.io/free-pixel-art-forest
+* Jumping/Grunt Audio - https://bckr.itch.io/sdap
+* Hutan Lestari Font - https://www.fontspace.com/hutan-lestari-font-f19232
